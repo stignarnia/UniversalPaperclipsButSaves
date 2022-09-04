@@ -10,7 +10,7 @@ if ($args[0] -eq "run") {
 	cd "Universal Paperclips-win32-x64"
 	start "Universal Paperclips.exe"
 
-	echo "Close this windows (or press any key here) only when you are done playing"
+	echo "Close this window (or press any key here) only when you are done playing"
 	cmd /c pause
 	taskkill /IM "Universal Paperclips.exe" /F
 } else {
