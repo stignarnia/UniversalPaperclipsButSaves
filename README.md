@@ -16,6 +16,6 @@ This is just a mirror of https://www.decisionproblem.com/paperclips, but no vers
 - Double click on `Universal Paperclips.bat` and ignore security warnings
 
 ## Notes
-- This is extremly funky and not worth being distributed, yet here you are
+- This is extremely funky and not worth being distributed, yet here you are
 - There are the `Save 1` and `Save 2` buttons, with the respective loaders, this is done by the creator so I just uncommented it. What's new is the possibility to run `BackupAndBuild.bat` again and get a new folder in the root directory that contains both saves and is portable to any other installation. This operation deletes the version you were using, so to restore the save you need to rename it `appData` and put it in `.\Universal Paperclips-win32-x64\resources\app`, overwriting when it asks.
 - If someone wants to do a proper Electron app or, even better, a GitHub Pages mirror / browser extension that just adds a button to get your save as a file and load it, please do. It's most likely it already exists and I just failed to find it though.
