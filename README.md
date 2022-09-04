@@ -3,6 +3,7 @@ This is just a mirror of https://www.decisionproblem.com/paperclips, but no vers
 
 ## Prerequisites
 - A reasonably recent version of Windows
+- PowerShell 7
 - A reasonably recent version of Node.js
 - Python 3
 
