@@ -1,3 +1,6 @@
+# Deprecated
+Superseded by [Universal Paperclips! - Electron App](https://github.com/Alex313031/univeral-paperclips-electron)
+
 # Universal Paperclips (But it has savegames and you can play locally)
 This is just a mirror of https://www.decisionproblem.com/paperclips, but no version of this game (not even on the payware phone version) allows you to export saves without writing code in the browser console everytime, this one does.
 
